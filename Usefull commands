@@ -1,0 +1,3 @@
+<strong>Hello</strong> or <b>Hello</b> = writes the text in bold
+<s>Hello</s> = writes a line on top of the sentence
+<u>Hello</u> or <ins>Hello</ins> = writes a line bellow of the sentence
